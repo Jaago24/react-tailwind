@@ -1,0 +1,34 @@
+[
+    {
+        "img": "../images/stew.jpeg",
+        "title": "5 Bean Chili Stew",
+        "maker": "Mexican"
+    },
+    {
+        "img": "../images/chickenNoodles.jpeg",
+        "title": "chicken Noodles",
+        "maker": "Chinese"
+    },
+    {
+        "img": "../images/chipotle.jpeg",
+        "title": "Chipotle Bowl",
+        "maker": "Mexican"
+    },
+    {
+        "img": "../images/cowboy.jpg",
+        "title": "CowBoy Chicken",
+        "maker": "American"
+    },
+    {
+        
+        "img": "../images/quesedilla.jpg",
+        "title": "Quesedilla",
+        "maker": "Mexican"
+    },
+    {
+        
+        "img": "../images/biryani.jpg",
+        "title": "Chicken Biryani",
+        "maker": "Indian"
+    }
+]
